@@ -1,0 +1,6 @@
+{
+  "name": "Shehi A. Footwears",
+  "description": "Footwear inventory, sales, bookkeeping, and profit management app for Shehi A. Footwears.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
